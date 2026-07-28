@@ -1,28 +1,31 @@
-# Junk in Downloads — not part of the app
-*.jpg
-*.jpeg
-*.png
-*.pdf
-*.docx
-*.xlsx
-*.csv
-*.sql.gz
-*.zip
-*.bat
+# dependencies / tooling
+node_modules/
+.vercel/
+.env.local
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
 desktop.ini
-drive-download-*/
-prevoius/
-_ (1).pdf
-_.pdf
-123456
-9092.pdf
-naukri_chitha_summary.json
-mobile-responsive-fixes.patch
-styles.css
-the_code_of_criminal_procedure,_1973.pdf
-ipc.pdf
-image.png
-DutyRoster.jsx
-haryana-police-duty-management-ui.html
-malkhana_evidence_table_compact.html
-malkhana_seized_items_test_data.csv
+
+# scratch / local checks
+*.html.tmp
+dc*.html
+live*.html
+dr*.html
+dep_idx.html
+r2.html
+newidx.html
+newroot.html
+g2*.html
+old1.html
+live2.html
+dpl*.html
+events.json
+deps.json
+ev.json
+proj.json
+nd.json
+newdep.json
+real_idx.html

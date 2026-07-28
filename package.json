@@ -1,0 +1,10 @@
+{
+  "name": "duty-roster",
+  "version": "1.0.0",
+  "description": "Haryana Police Duty Management UI (Naukri Chitha) — static, localStorage-backed",
+  "private": true,
+  "scripts": {
+    "build": "echo 'static site — no build step'",
+    "start": "npx serve ."
+  }
+}
