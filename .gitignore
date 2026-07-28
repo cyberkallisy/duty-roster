@@ -1,0 +1,28 @@
+# Junk in Downloads — not part of the app
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.sql.gz
+*.zip
+*.bat
+desktop.ini
+drive-download-*/
+prevoius/
+_ (1).pdf
+_.pdf
+123456
+9092.pdf
+naukri_chitha_summary.json
+mobile-responsive-fixes.patch
+styles.css
+the_code_of_criminal_procedure,_1973.pdf
+ipc.pdf
+image.png
+DutyRoster.jsx
+haryana-police-duty-management-ui.html
+malkhana_evidence_table_compact.html
+malkhana_seized_items_test_data.csv
