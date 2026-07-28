@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "duty-roster",
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
