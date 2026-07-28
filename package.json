@@ -4,7 +4,7 @@
   "description": "Haryana Police Duty Management UI (Naukri Chitha) — static, localStorage-backed",
   "private": true,
   "scripts": {
-    "build": "echo 'static site — no build step'",
+    "build": "mkdir -p dist && cp index.html dist/index.html && cp -r public/* dist/ 2>/dev/null || true",
     "start": "npx serve ."
   }
 }
