@@ -1,0 +1,43 @@
+[
+{"type":"stdout","created":1785233252453,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Running build in Washington, D.C., USA (East) – iad1","id":"1785233252453530979685400000","date":1785233252453,"serial":"1785233252453530979685400000"}}
+,
+{"type":"stdout","created":1785233252454,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Build machine configuration: 2 cores, 8 GB","id":"1785233252454530979685400000","date":1785233252454,"serial":"1785233252454530979685400000"}}
+,
+{"type":"stdout","created":1785233252548,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Cloning github.com/cyberkallisy/duty-roster (Branch: main, Commit: 8c30906)","id":"1785233252548530979685400001","date":1785233252548,"serial":"1785233252548530979685400001"}}
+,
+{"type":"stdout","created":1785233252549,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Previous build caches not available.","id":"1785233252549530979685400001","date":1785233252549,"serial":"1785233252549530979685400001"}}
+,
+{"type":"stdout","created":1785233252741,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Cloning completed: 192.000ms","id":"1785233252741530979685400000","date":1785233252741,"serial":"1785233252741530979685400000"}}
+,
+{"type":"stdout","created":1785233253112,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Running \"vercel build\"","id":"1785233253112221851784500000","date":1785233253112,"serial":"1785233253112221851784500000"}}
+,
+{"type":"stderr","created":1785233253130,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Vercel CLI 56.5.0","id":"1785233253130221851784500000","date":1785233253130,"serial":"1785233253130221851784500000"}}
+,
+{"type":"stdout","created":1785233253670,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Running \"install\" command: `npm install`...","id":"1785233253670221851784500000","date":1785233253670,"serial":"1785233253670221851784500000"}}
+,
+{"type":"stdout","created":1785233254274,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"","id":"1785233254274221851784500000","date":1785233254274,"serial":"1785233254274221851784500000"}}
+,
+{"type":"stdout","created":1785233254274,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"up to date, audited 1 package in 464ms","id":"1785233254274221851784500001","date":1785233254274,"serial":"1785233254274221851784500001"}}
+,
+{"type":"stdout","created":1785233254275,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"","id":"1785233254275221851784500000","date":1785233254275,"serial":"1785233254275221851784500000"}}
+,
+{"type":"stdout","created":1785233254275,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"found 0 vulnerabilities","id":"1785233254275221851784500001","date":1785233254275,"serial":"1785233254275221851784500001"}}
+,
+{"type":"stdout","created":1785233254505,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"","id":"1785233254505221851784500000","date":1785233254505,"serial":"1785233254505221851784500000"}}
+,
+{"type":"stdout","created":1785233254506,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"> duty-roster@1.0.0 build","id":"1785233254506221851784500000","date":1785233254506,"serial":"1785233254506221851784500000"}}
+,
+{"type":"stdout","created":1785233254506,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"> mkdir -p dist && cp index.html dist/index.html && cp -r public/* dist/ 2>/dev/null || true","id":"1785233254506221851784500001","date":1785233254506,"serial":"1785233254506221851784500001"}}
+,
+{"type":"stdout","created":1785233254507,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"","id":"1785233254507221851784500000","date":1785233254507,"serial":"1785233254507221851784500000"}}
+,
+{"type":"stderr","created":1785233254544,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Build Completed in /vercel/output [898ms]","id":"1785233254544221851784500000","date":1785233254544,"serial":"1785233254544221851784500000"}}
+,
+{"type":"stdout","created":1785233254619,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Deploying outputs...","id":"1785233254619221851784500000","date":1785233254619,"serial":"1785233254619221851784500000"}}
+,
+{"type":"stdout","created":1785233255322,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Deployment completed","id":"1785233255322221851784500000","date":1785233255322,"serial":"1785233255322221851784500000"}}
+,
+{"type":"stdout","created":1785233255433,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Creating build cache...","id":"1785233255433221851784500000","date":1785233255433,"serial":"1785233255433221851784500000"}}
+,
+{"type":"stdout","created":1785233255987,"payload":{"deploymentId":"dpl_9jdvjGYgqYmzu7WpDtu6xKYBcVUg","info":{"type":"build","name":"bld_bhdvg7m64","entrypoint":"."},"text":"Skipping cache upload because no files were prepared","id":"1785233255987221851784500001","date":1785233255987,"serial":"1785233255987221851784500001"}}
+]

@@ -29,3 +29,5 @@ proj.json
 nd.json
 newdep.json
 real_idx.html
+.vercel
+.env*
