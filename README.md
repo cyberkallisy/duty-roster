@@ -42,3 +42,4 @@ Vercel auto-deploys the static site. Production URL:
 ## Data
 All state lives in the browser's `localStorage` under key `naukri_chitha_v1`.
 Use the **↺ Reset demo** button in-app to restore the seed sample.
+<!-- deployed 1785233447 -->
