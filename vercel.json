@@ -1,8 +1,10 @@
 {
   "version": 2,
   "name": "duty-roster",
+  "framework": null,
   "buildCommand": null,
   "outputDirectory": ".",
+  "cleanUrls": true,
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
